@@ -1,0 +1,63 @@
+[
+    {
+        "name":"iphone11pro",
+        "price":864,
+        "feature":true,
+        "company": "apple"
+    },
+    {
+        "name":"iphone13pro",
+        "price":954,
+        "feature":true,
+        "company": "apple"
+    },
+    {
+        "name":"hp laptop 15",
+        "price":1054,
+        "feature":true,
+        "company": "hp"
+    },
+    {
+        "name":"iphone14pro",
+        "price":2554,
+        "feature":true,
+        "company": "apple"
+    },
+    {
+        "name":"iphone6",
+        "price":454,
+        "feature":true,
+        "company": "apple"
+    },
+    {
+        "name":"iphone11",
+        "price":854,
+        "feature":true,
+        "company": "apple"
+    },
+    {
+        "name":"iphone12pro",
+        "price":1254,
+        "feature":true,
+        "company": "apple"
+    },
+    {
+        "name":"iphone12",
+        "price":1504,
+        "feature":true,
+        "company": "apple"
+    },
+    {
+        "name":"iphone14",
+        "price":1654,
+        "feature":true,
+        "company": "apple"
+    },
+
+    {
+        "name":"iphone13",
+        "price":1554,
+        "feature":true,
+        "company": "apple"
+    }
+]
